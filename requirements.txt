@@ -9,6 +9,5 @@ ipywidgets
 seaborn
 IPython
 h5py
-os
 plotly
 galpy
